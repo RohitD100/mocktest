@@ -1,0 +1,96 @@
+{
+    "cars": [
+        {
+            "img": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "brand": "AMT",
+            "type": "Manual",
+            "year": "",
+            "kms": "12",
+            "Description": "df",
+            "Price": "200",
+            "id": 2
+        },
+        {
+            "img": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "brand": "Tata",
+            "type": "Manual",
+            "year": "",
+            "kms": "12",
+            "Description": "df",
+            "Price": "300",
+            "id": 3
+        },
+        {
+            "img": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "brand": "Tata",
+            "type": "Manual",
+            "year": "",
+            "kms": "12",
+            "Description": "df",
+            "Price": "400",
+            "id": 4
+        },
+        {
+            "img": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "brand": "Tata",
+            "type": "Manual",
+            "year": "",
+            "kms": "12",
+            "Description": "df",
+            "Price": "500",
+            "id": 5
+        },
+        {
+            "img": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "brand": "Tata",
+            "type": "Manual",
+            "year": "",
+            "kms": "12",
+            "Description": "df",
+            "Price": "600",
+            "id": 6
+        },
+        {
+            "img": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "brand": "Tata",
+            "type": "Manual",
+            "year": "",
+            "kms": "12",
+            "Description": "df",
+            "Price": "700",
+            "id": 7
+        }
+    ],
+    "wishlisted_cars": [
+        {
+            "img": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "brand": "Tata",
+            "type": "Manual",
+            "year": "",
+            "kms": "12",
+            "Description": "df",
+            "Price": "300",
+            "id": 3
+        },
+        {
+            "img": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "brand": "Tata",
+            "type": "Manual",
+            "year": "",
+            "kms": "12",
+            "Description": "df",
+            "Price": "700",
+            "id": 7
+        },
+        {
+            "img": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "brand": "Tata",
+            "type": "Manual",
+            "year": "",
+            "kms": "12",
+            "Description": "df",
+            "Price": "400",
+            "id": 4
+        }
+    ]
+}
